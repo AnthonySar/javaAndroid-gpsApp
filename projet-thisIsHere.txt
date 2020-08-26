@@ -1,0 +1,27 @@
+** Projet thisHisHere**
+
+A plusieurs reprises, vous avez garé votre voiture sans vous rappeler précisément où. 
+Vous décidez alors de réaliser une application native Android permettant d'enregistrer des "pins" (association d'un élément quelconque (voiture, personne, etc.), à une date et à un lieu précis (coordonnées GPS))
+
+Exemple: en date du 15/08/2020 09h15, ma voiture se situe à 48.6080512, 7.752908799999999
+
+- Propriété d'un "pin": titre, date, coordonnées GPS
+
+L'application permettra
+- d'enregistrer (sur l'appareil ou sur une API distante au choix) des pins. 
+En option, permettre la modification et la suppression.
+- de lister les pins enregistrés
+
+
+Livrables attendus pour vendredi fin de journée:
+- code source du prototype de l'application
+
+Liens utiles (doc):
+- https://developer.android.com/training/data-storage
+- https://developer.android.com/training/location
+
+Merci de me fournir l'adresse de votre dépôt github/gitlab sur teams dans le canal Android
+
+Bon courage !
+
+Chris
