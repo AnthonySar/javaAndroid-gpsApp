@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">storage Location</string>
+    <string name="this_his_here">This His Here</string>
+    <string name="button">Button</string>
 </resources>
